@@ -7,7 +7,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Front-End+Developer,;Back-End+Developer,;Mobile+Developer,;Video+Game+Developer,;Active+Learner/Researcher"></a>
 </p>
 	
-## <b> About me</b>
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;"><b> About me</b>
 <br>
 
 <a target="_blank" align="center">
